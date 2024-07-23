@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922636334084",
+    "project_id": "daftarbelanjaku-6c78f",
+    "storage_bucket": "daftarbelanjaku-6c78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922636334084:android:af45f16ddca66b761a7151",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU75Y9bLtdrnkfJIhKZrHpwkIKy8k7X8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
